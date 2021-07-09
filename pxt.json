@@ -1,5 +1,5 @@
 {
-    "name": "Energy cost calcuator",
+    "name": "Energy cost calculator",
     "description": "",
     "dependencies": {
         "core": "*",
